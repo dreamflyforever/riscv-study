@@ -70,6 +70,6 @@ make[1]: flex: Command not found
 solve: sudo apt-get install flex bison  
 
 # hello world
-riscv64-unknown-elf-gcc main.c
-qemu-riscv64 a.out
+riscv64-unknown-elf-gcc main.c  
+qemu-riscv64 a.out  
 remember add your riscv gcc&qemu to system PATH
