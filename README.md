@@ -1,0 +1,1 @@
+something study for riscv
